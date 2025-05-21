@@ -1,0 +1,68 @@
+.footer{
+    color: white;
+    margin-top: 7.5rem;
+    margin-bottom: 2rem;
+}
+
+.footer hr{
+    width: 95%;
+    height: 1.5px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+
+    margin: 0 auto;
+}
+
+.footer .cta-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 2vw;
+
+    width: fit-content;
+    margin: 1.5rem auto;
+
+    list-style-type: none;
+}
+
+.footer .cta-container .phone{
+    color: rgb(247 131 47);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.footer .cta-container .phone:hover{
+    color: rgb(247, 169, 113);
+}
+
+.footer > p, footer > address{
+    text-align: center;
+    font-size: 1rem;
+}
+
+.footer > address{
+    margin-bottom: 16px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 800px){
+    
+}
+
+@media screen and (max-width: 380px){
+    .footer{
+        margin-top: 4rem;
+        margin-bottom: 1rem;
+    }
+
+    .footer .cta-container .phone{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .footer > p{
+        font-size: 0.8rem;
+    }
+}

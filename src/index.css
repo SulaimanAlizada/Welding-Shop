@@ -1,0 +1,19 @@
+@font-face {
+    font-family: baloo;
+    src: url('./Assets/Fonts/BalooBhaijaan2-Regular.ttf');
+
+    font-family: zain;
+    src: url('./Assets/Fonts/Zain-Regular.ttf');
+}
+
+*{
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+body{
+    background-color: black;
+    font-family: 'zain', sans-serif;
+}
