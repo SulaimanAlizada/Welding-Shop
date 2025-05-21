@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Welding-Shop/static/css/main.c26f880a.css",
-    "main.js": "/Welding-Shop/static/js/main.308b6ecb.js",
+    "main.js": "/Welding-Shop/static/js/main.71673d8f.js",
     "static/media/filter 05.jpg": "/Welding-Shop/static/media/filter 05.b80653d3e5d7846b1090.jpg",
     "static/media/filter 04.jpg": "/Welding-Shop/static/media/filter 04.4b9a5b880156b3f85457.jpg",
     "static/media/stove 02.jpg": "/Welding-Shop/static/media/stove 02.f411a4149be885237005.jpg",
@@ -16,10 +16,10 @@
     "static/media/reservoir 03.jpg": "/Welding-Shop/static/media/reservoir 03.1907c9ae6cf4e1e816a6.jpg",
     "index.html": "/Welding-Shop/index.html",
     "main.c26f880a.css.map": "/Welding-Shop/static/css/main.c26f880a.css.map",
-    "main.308b6ecb.js.map": "/Welding-Shop/static/js/main.308b6ecb.js.map"
+    "main.71673d8f.js.map": "/Welding-Shop/static/js/main.71673d8f.js.map"
   },
   "entrypoints": [
     "static/css/main.c26f880a.css",
-    "static/js/main.308b6ecb.js"
+    "static/js/main.71673d8f.js"
   ]
 }
