@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Welding-Shop/static/css/main.c26f880a.css",
+    "main.js": "/Welding-Shop/static/js/main.308b6ecb.js",
+    "static/media/filter 05.jpg": "/Welding-Shop/static/media/filter 05.b80653d3e5d7846b1090.jpg",
+    "static/media/filter 04.jpg": "/Welding-Shop/static/media/filter 04.4b9a5b880156b3f85457.jpg",
+    "static/media/stove 02.jpg": "/Welding-Shop/static/media/stove 02.f411a4149be885237005.jpg",
+    "static/media/reservoir 01.jpg": "/Welding-Shop/static/media/reservoir 01.5fc49c895b4f39679751.jpg",
+    "static/media/filter 03.jpg": "/Welding-Shop/static/media/filter 03.9720846348730a95bcde.jpg",
+    "static/media/filter 01.jpg": "/Welding-Shop/static/media/filter 01.d1327ad762ccb82bdbb6.jpg",
+    "static/media/filter 02.jpg": "/Welding-Shop/static/media/filter 02.a8248da4a70a245c0ded.jpg",
+    "static/media/stove 01.jpg": "/Welding-Shop/static/media/stove 01.18efc184dc19f7e39d1b.jpg",
+    "static/media/Zain-Regular.ttf": "/Welding-Shop/static/media/Zain-Regular.ebf3b167706ac4bb3ff8.ttf",
+    "static/media/BalooBhaijaan2-Regular.ttf": "/Welding-Shop/static/media/BalooBhaijaan2-Regular.46f380291a0a191dbe7e.ttf",
+    "static/media/reservoir 04.jpg": "/Welding-Shop/static/media/reservoir 04.4ebd53d7dcd59355145c.jpg",
+    "static/media/reservoir 03.jpg": "/Welding-Shop/static/media/reservoir 03.1907c9ae6cf4e1e816a6.jpg",
+    "index.html": "/Welding-Shop/index.html",
+    "main.c26f880a.css.map": "/Welding-Shop/static/css/main.c26f880a.css.map",
+    "main.308b6ecb.js.map": "/Welding-Shop/static/js/main.308b6ecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26f880a.css",
+    "static/js/main.308b6ecb.js"
+  ]
+}
